@@ -9,13 +9,13 @@ Decision Making for the benefit of the people.
 Important stories through his way till he become a king.
 #### Desirable features – Learn about the dynasty of King David.
 Learn about the environment of King David - about his servants, children, ministers in the kingdom and more.
-### Milestones – 
-•	David serves King Saul (Plays a harp(.
-•	War of David and Goliath.
-•	The escape of King David from Saul.
-•	King David as a King to Israel realm.
-•	Wars of King David.
-•	Avshalom revolt.
+### Milestones
+*	David serves King Saul (Plays a harp(.
+*	War of David and Goliath.
+*	The escape of King David from Saul.
+*	King David as a King to Israel realm.
+*	Wars of King David.
+*	Avshalom revolt.
 We will develop our game in Unity engine.
 ### Market Survey:
 There are few games whose general idea is similar but do not go into details like David - Dawn Of A King, The Campaigns of King David (Board Game). These games do not talk about the history of the Jewish people and do not tell the stories of King David from the Bible. Our game will focus on those historical stories
