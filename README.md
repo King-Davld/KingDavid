@@ -4,11 +4,13 @@
 ## Project Goals
 In our project we will learn about King David from the bible. Through this game the user will get to know this historical story.
 Our project going to be an hour-long educational game, in the game the user will participate in David story, War scenes and more.
-#### Essential features – Learn about King David story from the beginning when he was young until he become a king.
-Decision Making for the benefit of the people.
-Important stories through his way till he become a king.
-#### Desirable features – Learn about the dynasty of King David.
-Learn about the environment of King David - about his servants, children, ministers in the kingdom and more.
+#### Essential features
+* Learn about King David story from the beginning when he was young until he become a king.
+* Decision Making for the benefit of the people.
+* Important stories through his way till he become a king.
+#### Desirable features – 
+* Learn about the dynasty of King David.
+* Learn about the environment of King David - about his servants, children, ministers in the kingdom and more.
 ### Milestones
 *	David serves King Saul (Plays a harp(.
 *	War of David and Goliath.
