@@ -1,6 +1,6 @@
-# KingDavid
+# King David - Vision
 
-King David - Vision
+
 ## Project Goals
 In our project we will learn about King David from the bible. Through this game the user will get to know this historical story.
 Our project going to be an hour-long educational game, in the game the user will participate in David story, War scenes and more.
@@ -22,7 +22,7 @@ There are few games whose general idea is similar but do not go into details lik
 ### elevator statement
 For computer users of all ages who enjoy computer games and want to learn the story about King David, the "King David" game is a computer game that allows users learn about King David story through enjoyable game. Unlike other games that they are purposeless and are built just for the enjoyment of the user, in our case beyond being a fun game our product will acquire the user historical knowledge about King David and the Jewish people as stated in the Bible.
 
-By:
+### By:
 * Saar Barel 
 * Uriya Asher Shamla 
 * Almog Reuveny 
