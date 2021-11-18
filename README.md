@@ -23,9 +23,9 @@ There are few games whose general idea is similar but do not go into details lik
 For computer users of all ages who enjoy computer games and want to learn the story about King David, the "King David" game is a computer game that allows users learn about King David story through enjoyable game. Unlike other games that they are purposeless and are built just for the enjoyment of the user, in our case beyond being a fun game our product will acquire the user historical knowledge about King David and the Jewish people as stated in the Bible.
 
 By:
-Saar Barel 
-Uriya Asher Shamla 
-Almog Reuveny 
-Omer Aden 
+* Saar Barel 
+* Uriya Asher Shamla 
+* Almog Reuveny 
+* Omer Aden 
 
 
