@@ -16,7 +16,7 @@
    לרכיבים הדרמטיים יש ללחוץ [כאן](https://github.com/King-Davld/KingDavid/blob/main/Dramatic-Elements.md)
 
   
-לצפייה בסירטון דמו קצר של המשחק יש ללחוץ [כאן](https://www.youtube.com/watch?v=7OodMuA2MYU)
+לצפייה בסירטון דמו קצר של המשחק יש ללחוץ [כאן](https://youtu.be/x6bMpKlQ_Uw)
 
 
 
