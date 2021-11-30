@@ -13,7 +13,7 @@
   
    לרכיבים הרישמיים יש ללחוץ [כאן](https://github.com/King-Davld/KingDavid/blob/main/formal-elements.md)
   
-     לרכיבים הדרמטיים יש ללחוץ [כאן](https://github.com/King-Davld/KingDavid/blob/main/formal-elements.md)
+   לרכיבים הדרמטיים יש ללחוץ [כאן](https://github.com/King-Davld/KingDavid/blob/main/formal-elements.md)
 
   
 לצפייה בסירטון דמו קצר של המשחק יש ללחוץ [כאן](https://www.youtube.com/watch?v=7OodMuA2MYU)
