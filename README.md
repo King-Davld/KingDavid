@@ -11,7 +11,7 @@
 ![1](https://user-images.githubusercontent.com/20986238/142910402-7a07fb44-7e06-43d7-b309-72a94111da6d.png)
 
   
-   לרכיבים הרישמיים יש ללחוץ [כאן](https://github.com/King-Davld/KingDavid/blob/main/formal-elements.md)
+   לרכיבים הרישמיים יש ללחוץ [כאן](https://github.com/King-Davld/KingDavid/blob/main/Formal-Elements.md)
   
    לרכיבים הדרמטיים יש ללחוץ [כאן](https://github.com/King-Davld/KingDavid/blob/main/Dramatic-Elements.md)
 
