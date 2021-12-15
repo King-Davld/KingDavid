@@ -9,7 +9,7 @@
 
 ## Code structure:
 ### The code is divided into 8 main classes:
-### 1. [Battle System](https://github.com/LeveI-Up/KingDavid/tree/main/Assets/Scripts/BattleSystem) - The fighting process in the game.
+### 1. [Battle System](https://github.com/LeveI-Up/KingDavid/tree/main/Assets/Scripts/Battle%20System) - The fighting process in the game.
 #### Main Methods:
 * StartBattle.
 * BattleNotification.
