@@ -9,6 +9,7 @@
 
 ## מבנה הקוד:
 ### הקוד מחולק ל-8 מחלקות עיקריות:
+### 1. 
 ### 1. Battle System - תהליך הלחימה במשחק.
 #### Main Methods:
 * StartBattle.
@@ -16,40 +17,40 @@
 * AttackEffect.
 * BattleCharacters.
 ### 2. DialogManager - תהליך הדיאלוג עם שאר הדמויות במשחק.
-####Main Methods:
+#### Main Methods:
 * DialogController.
 * DialogHandler.
 * StartQuestAfterDialog.
 ### 3. Items - תהליך יצירה/השגה/שימוש בחפצים במשחק.
-####Main Methods:
+#### Main Methods:
 * Inventory.
 * ItemButton.
 * ItemsAssets.
 * ItemsManager.
 ### 4. LevelManager - תהליך מעבר בין סצינות ובניית המפות במשחק.
-####Main Methods:
+#### Main Methods:
 * ExitArea.
 * ArrivalArea.
 * TileMaps.
 * MapEdges.
 ### 5. Managers - תהליכי הליבה של המשחק (סאונד,מצלמה,תפריט ראשי).
-####Main Methods:
+#### Main Methods:
 * AudioManager.
 * CamController.
 * GameManager.
 * MenuManager.
 ### 6. Player - כלל התהליכים שקשורים לשחקן (תנועה,סטאטים,קרבות,חפצים).
-####Main Methods:
+#### Main Methods:
 * PlayerMovement.
 * PlayerAnimation.
 * PlayerStats.
 ### 7. Quests -  תהליך קבלה/סיום משימות במשחק.
-####Main Methods:
+#### Main Methods:
 * QuestManager.
 * QuestObject.
 * QuestZone.
 ### 8. Shop - תהליך קניה/מכירה של חפצים במשחק.
-####Main Methods:
+#### Main Methods:
 * ShopKeeper.
 * ShopManager.
 * BuyItems.
