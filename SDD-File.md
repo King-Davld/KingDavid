@@ -56,11 +56,10 @@
 * SellItems.
 
 ## Responsibilities among the game team members:
-* Saar Barel - in charge of the game engine files (scripts, animations, all the basic systems - regardless of the plot).
-* Almog Reuveny - building maps, creating dialogues, creating tasks (in collaboration with Uriah in order to maintain the sequence of the biblical story).
-* Uriah Shamla - Composing the plots of the stories about King David from the Bible to the game (main scenes, accompanying characters, etc.).
-* Omar Aden - responsible for game design (game menu, game characters, game items, etc.)
-
+* [Saar Barel](https://github.com/saar95) - in charge of the game engine files (scripts, animations, all the basic systems - regardless of the plot).
+* [Almog Reuveny](https://github.com/almogre02) - building maps, creating dialogues, creating tasks (in collaboration with Uriah in order to maintain the sequence of the biblical story).
+* [Uriya Shemla](https://github.com/uriyashemla) - Composing the plots of the stories about King David from the Bible to the game (main scenes, accompanying characters, etc.).
+* [Omer Aden](https://github.com/omer6546) - responsible for game design (game menu, game characters, game items, etc.)
 
 
 
