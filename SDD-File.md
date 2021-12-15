@@ -55,7 +55,7 @@
 * BuyItems.
 * SellItems.
 
-##responsibilities among the game team members:
+## Responsibilities among the game team members:
 * Saar Barel - in charge of the game engine files (scripts, animations, all the basic systems - regardless of the plot).
 * Almog Reuveni - building maps, creating dialogues, creating tasks (in collaboration with Uriah in order to maintain the sequence of the biblical story).
 * Uriah Shamla - Composing the plots of the stories about King David from the Bible to the game (main scenes, accompanying characters, etc.).
